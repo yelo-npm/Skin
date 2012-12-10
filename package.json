@@ -1,5 +1,5 @@
 {
-  "name": "Skin",
+  "name": "skin",
   "version": "0.5.0",
   "description": "Tightly coupled, non-MVC framework for prototyping",
   "main": "index.js",
