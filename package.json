@@ -1,0 +1,30 @@
+{
+  "name": "Skin",
+  "version": "0.5.0",
+  "description": "Tightly coupled, non-MVC framework for prototyping",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "dis": "~0.2.1",
+    "myclass": "~1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yelo-npm/Skin.git"
+  },
+  "keywords": [
+    "template",
+    "oot",
+    "non-mvc",
+    "prototyping"
+  ],
+  "author": "xananax@yelostudio.com",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
